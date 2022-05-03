@@ -1,1 +1,3 @@
 # blackjack-with-monte-carlo
+
+Reinforcement learning is concerned with how agents should act in an environment to maximize reward. In most real life situations, the model for the environment, including the state transition probabilities, are not known. In such situations, the agent can instead learn from experience. One such class of methods are the Monte Carlo methods, which are offline methods that rely on sampling episodes to evaluate or estimate a policy. Using OpenAI Gym’s Blackjack environment, this report aims to evaluate provided strategies and approximate optimal strategies for winning blackjack using Monte Carlo methods.
